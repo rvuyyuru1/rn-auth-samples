@@ -1,7 +1,7 @@
 {
   "name": "rn-auth-samples",
   "title": "React Native Simple Auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native biometric prompt for ios and android",
   "main": "index.js",
   "bin": "index.js",

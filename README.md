@@ -1,2 +1,5 @@
 # rn-auth-samples
- auth sameles for react native
+
+auth Samples for react native
+
+- import RNAuth from rn-auth-samples

@@ -1,5 +1,5 @@
 import { NativeModules } from "react-native";
-const { RNAuth: RNBiometricsNative } = NativeModules;
+const { RNBiometrics: RNBiometricsNative } = NativeModules;
 
 /**
  * check if authentication is possible
