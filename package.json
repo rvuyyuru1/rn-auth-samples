@@ -1,0 +1,42 @@
+{
+  "name": "rn-auth-samples",
+  "title": "React Native Simple Auth",
+  "version": "1.0.0",
+  "description": "Native biometric prompt for ios and android",
+  "main": "index.js",
+  "bin": "index.js",
+  "files": [
+    "README.md",
+    "android/src",
+    "android/build.gradle",
+    "ios",
+    "index.js",
+    "react-native-simple-biometrics.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvuyyuru1/rn-auth-samples.git"
+  },
+  "homepage": "https://github.com/rvuyyuru1/rn-auth-samples.git",
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "RAJA SHEKAR REDDY VUYYURU",
+    "email": "vuyyururajashekarreddy2222@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
