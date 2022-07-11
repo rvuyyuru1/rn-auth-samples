@@ -32,9 +32,9 @@ const requestBioAuth = (promptTitle, promptMessage) => {
   return RNBiometricsNative.requestBioAuth(promptTitle, promptMessage);
 };
 
-const RNAuth = {
+const RNBiometrics = {
   requestBioAuth,
   canAuthenticate,
 };
 
-export default RNAuth;
+export default RNBiometrics;
